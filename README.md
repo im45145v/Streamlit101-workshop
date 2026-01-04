@@ -26,6 +26,7 @@
 - Streamlit Magic Cheat Sheets: https://github.com/tushar2704/Streamlit-Magic-Cheat-Sheets
 - Video playlist: https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
 - Tutorial video: https://www.youtube.com/watch?v=HKoOBiAaHGg
+- Slides to workshop: https://www.canva.com/design/DAG9ehrEnIk/y7l0VDJ3AwJbgcDOBJX3BQ/edit?utm_content=DAG9ehrEnIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Example apps for inspiration
 - Interrogaite: https://interrogaite.streamlit.app/
